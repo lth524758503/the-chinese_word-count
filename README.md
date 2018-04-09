@@ -1,2 +1,2 @@
 # the-chinese_word-count
-XXXXXXXXXXXXAAAAAA
+try to use python achieve the chinese_words count and generate the word cloud.
